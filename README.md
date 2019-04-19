@@ -1,2 +1,2 @@
-# empresa-php
-sistema empresa feito com orientação a objetos em PHP
+# funcionarios-php
+Sistema de funcionários feito em orientação a objetos em PHP
